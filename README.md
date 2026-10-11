@@ -9,9 +9,8 @@ The factorial of a non-negative integer \(n\), written as \(n!\), is the product
 ## How to Run
 
 1. Make sure Python is installed on your computer.
-2. Clone or download this repository.
-3. Open a terminal in the repository directory.
-4. Run the following command:
+2. Open a terminal in the repository directory.
+3. Run the following command:
 
 ```bash
 python factorial.py
